@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/greymatter_bots')
+                InlineKeyboardButton('𝙐𝙥𝙙𝙖𝙩𝙚 𝙘𝙝𝙖𝙣𝙣𝙚𝙡🍃', url='https://t.me/freakersmovie')
             ],
             [
-                InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://youtube.com/c/GreyMattersBot"),
+                InlineKeyboardButton('𝙎𝙚𝙧𝙞𝙚𝙨 𝙊𝙣𝙡𝙮🍃', url=f"https://t.me/FF_Series_Only"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -45,13 +45,13 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('𝑨𝒅𝒅 𝑴𝒆 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑🎙️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://youtube.com/c/GreyMattersBot'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/greymatter_bots')
+            InlineKeyboardButton('𝑺𝒆𝒓𝒊𝒆𝒔 𝑼𝒑𝒅𝒂𝒕𝒆𝒔🍃', url='https://t.me/freakers_series'),
+            InlineKeyboardButton('𝑴𝒐𝒗𝒊𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔🍃', url='https://t.me/freakersmovie')
             ],[
-            InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+            InlineKeyboardButton('𝑯𝒆𝒍𝒑🍃', callback_data='help'),
+            InlineKeyboardButton('𝑨𝒃𝒐𝒖𝒕🍃', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -70,7 +70,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🔥 JOIИ UᎮDΛTΞS CHΛИИΞL 🔥", url=invite_link.invite_link
+                    "𝑱𝒐𝒊𝒏 𝑼𝒑𝒅𝒂𝒕𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍🍃", url=invite_link.invite_link
                 )
             ]
         ]
@@ -79,9 +79,9 @@ async def start(client, message):
             try:
                 kk, file_id = message.command[1].split("_", 1)
                 pre = 'checksubp' if kk == 'filep' else 'checksub' 
-                btn.append([InlineKeyboardButton(" 🔄 Try Again", callback_data=f"{pre}#{file_id}")])
+                btn.append([InlineKeyboardButton("𝑻𝒓𝒚 𝑨𝒈𝒂𝒊𝒏 🕹️", callback_data=f"{pre}#{file_id}")])
             except (IndexError, ValueError):
-                btn.append([InlineKeyboardButton(" 🔄 Try Again", url=f"https://t.me/{temp.U_NAME}?start={message.command[1]}")])
+                btn.append([InlineKeyboardButton("𝑻𝒓𝒚 𝑨𝒈𝒂𝒊𝒏 🕹️", url=f"https://t.me/{temp.U_NAME}?start={message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
             text="**𝑱𝒐𝒊𝒏 𝑶𝒖𝒓 𝑴𝒐𝒗𝒊𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑻𝒐 𝑼𝒔𝒆 𝑻𝒉𝒊𝒔 𝑩𝒐𝒕!**",
@@ -91,13 +91,13 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('𝑨𝒅𝒅 𝑴𝒆 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑🎙️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://youtube.com/c/GreyMattersBot'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/greymatter_bots')
+            InlineKeyboardButton('𝑺𝒆𝒓𝒊𝒆𝒔 𝑼𝒑𝒅𝒂𝒕𝒆𝒔🍃', url='https://t.me/freakers_series'),
+            InlineKeyboardButton('𝑴𝒐𝒗𝒊𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔🍃', url='https://t.me/freakersmovie')
             ],[
-            InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+            InlineKeyboardButton('𝑯𝒆𝒍𝒑🍃', callback_data='help'),
+            InlineKeyboardButton('𝑨𝒃𝒐𝒖𝒕🍃', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -247,7 +247,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://youtube.com/c/GreyMattersBot') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://t.me/SixFlix') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
@@ -347,12 +347,12 @@ async def delete_all_index(bot, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="⚡ 𝐘𝐞𝐬 ⚡", callback_data="autofilter_delete"
+                        text="ʏᴇs", callback_data="autofilter_delete"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        text="❄ 𝐂𝐚𝐧𝐜𝐞𝐥 ❄", callback_data="close_data"
+                        text="ᴄᴀɴᴄᴇʟ", callback_data="close_data"
                     )
                 ],
             ]
@@ -424,7 +424,7 @@ async def settings(client, message):
                     callback_data=f'setgs#botpm#{settings["botpm"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '✅ 𝐘𝐄𝐒' if settings["botpm"] else '❌ 𝐍𝐎',
+                    '𝐘𝐄𝐒' if settings["botpm"] else '𝐍𝐎',
                     callback_data=f'setgs#botpm#{settings["botpm"]}#{grp_id}',
                 ),
             ],
@@ -434,7 +434,7 @@ async def settings(client, message):
                     callback_data=f'setgs#file_secure#{settings["file_secure"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '✅ 𝐘𝐄𝐒' if settings["file_secure"] else '❌ 𝐍𝐎',
+                    '𝐘𝐄𝐒' if settings["file_secure"] else '𝐍𝐎',
                     callback_data=f'setgs#file_secure#{settings["file_secure"]}#{grp_id}',
                 ),
             ],
@@ -444,7 +444,7 @@ async def settings(client, message):
                     callback_data=f'setgs#imdb#{settings["imdb"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '✅ 𝐘𝐄𝐒' if settings["imdb"] else '❌ 𝐍𝐎',
+                    '𝐘𝐄𝐒' if settings["imdb"] else '𝐍𝐎',
                     callback_data=f'setgs#imdb#{settings["imdb"]}#{grp_id}',
                 ),
             ],
@@ -454,7 +454,7 @@ async def settings(client, message):
                     callback_data=f'setgs#spell_check#{settings["spell_check"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '✅ 𝐘𝐄𝐒' if settings["spell_check"] else '❌ 𝐍𝐎',
+                    '𝐘𝐄𝐒' if settings["spell_check"] else '𝐍𝐎',
                     callback_data=f'setgs#spell_check#{settings["spell_check"]}#{grp_id}',
                 ),
             ],
@@ -464,7 +464,7 @@ async def settings(client, message):
                     callback_data=f'setgs#welcome#{settings["welcome"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '✅ 𝐘𝐄𝐒' if settings["welcome"] else '❌ 𝐍𝐎',
+                    '𝐘𝐄𝐒' if settings["welcome"] else '𝐍𝐎',
                     callback_data=f'setgs#welcome#{settings["welcome"]}#{grp_id}',
                 ),
             ],
