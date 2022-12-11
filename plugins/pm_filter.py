@@ -165,7 +165,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('𝘏𝘦𝘺..!\n 🤔𝘐 𝘛𝘩𝘪𝘯𝘬 𝘛𝘩𝘪𝘴 𝘔𝘰𝘷𝘪𝘦 𝘕𝘰𝘵 𝘠𝘦𝘵 𝘙𝘦𝘭𝘦𝘢𝘴𝘦𝘥.. 𝘖𝘳 𝘕𝘰𝘵 𝘈𝘥𝘥𝘦𝘥 𝘪𝘯 𝘔𝘺 📂𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦..!🤷 \n𝘔𝘢𝘺𝘣𝘦 𝘪𝘧 𝘺𝘰𝘶 𝘯𝘦𝘦𝘥 𝘢 𝘛𝘷/𝘸𝘦𝘣 𝘴𝘦𝘳𝘪𝘦𝘴 𝘢𝘴𝘬 𝘪𝘯 𝘰𝘶𝘳 𝘴𝘦𝘳𝘪𝘦𝘴 𝘨𝘳𝘰𝘶𝘱..\n<a href=https://t.me/FF_Series_Only><i><b>sᴇʀɪᴇs ɢʀᴏᴜᴘ</i></b></a>\n\n🤔ഈ സിനിമ OTT റിലീസ് ആവാത്തതൊ? എൻ്റെ 📂കളക്ഷനിൽ ഉൾപ്പെടുത്താതൊ ആവാം..')
+            k = await query.message.edit('𝘏𝘦𝘺..!\n 🤔𝘐 𝘛𝘩𝘪𝘯𝘬 𝘛𝘩𝘪𝘴 𝘔𝘰𝘷𝘪𝘦 𝘕𝘰𝘵 𝘠𝘦𝘵 𝘙𝘦𝘭𝘦𝘢𝘴𝘦𝘥.. 𝘖𝘳 𝘕𝘰𝘵 𝘈𝘥𝘥𝘦𝘥 𝘪𝘯 𝘔𝘺 📂𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦..!🤷 \n𝘔𝘢𝘺𝘣𝘦 𝘪𝘧 𝘺𝘰𝘶 𝘯𝘦𝘦𝘥 𝘢 𝘛𝘷/𝘸𝘦𝘣 𝘴𝘦𝘳𝘪𝘦𝘴 𝘢𝘴𝘬 𝘪𝘯 𝘰𝘶𝘳 𝘴𝘦𝘳𝘪𝘦𝘴 𝘨𝘳𝘰𝘶𝘱..<i><b>[sᴇʀɪᴇs ɢʀᴏᴜᴘ](https://t.me/FF_Series_Only)</i></b>\n\n🤔ഈ സിനിമ OTT റിലീസ് ആവാത്തതൊ? എൻ്റെ 📂കളക്ഷനിൽ ഉൾപ്പെടുത്താതൊ ആവാം..')
             await asyncio.sleep(20)
             await k.delete()
 
