@@ -85,7 +85,4 @@ DOWNLOAD_TEXT_URL = "https://t.me/SixFlix/269"
 CAPTION_BUTTON = "Subscribe"
 CAPTION_BUTTON_URL = "https://t.me/freakers_series"
 
-   # Retext caption type #
-RETEXT = RETEXT
-
    # Auto Delete For Bot Sending Files #
