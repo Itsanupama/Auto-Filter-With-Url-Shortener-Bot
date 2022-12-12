@@ -79,10 +79,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "🤔𝙃𝙤𝙬 𝙏𝙤 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙❓"
-DOWNLOAD_TEXT_URL = "https://t.me/SixFlix/269"
+DOWNLOAD_TEXT_URL = "https://t.me/SixFlix/308"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "Subscribe"
+CAPTION_BUTTON = "sᴜʙsᴄʀɪʙᴇ"
 CAPTION_BUTTON_URL = "https://t.me/freakers_series"
 
    # Auto Delete For Bot Sending Files #
