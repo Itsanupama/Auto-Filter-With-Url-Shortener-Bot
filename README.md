@@ -94,6 +94,7 @@ python3 bot.py
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/LiKdX4?referralCode=BOT-AC)
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/botac135/Movie-Bot-Url-shortener-bot)
 
 ## Commands
 ```
