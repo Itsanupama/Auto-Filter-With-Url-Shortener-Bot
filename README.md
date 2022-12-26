@@ -38,6 +38,8 @@
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
 - [x] File Store
+## Demo Bot
+Use this bot For A Demo / trail test \n👉🏽[CLICK HERE](https://telegram.dog/freakersfilterbot)
 ## Variables
 
 Read [this](https://telegram.dog/freakersfilmy) before you start messing up with your edits.
