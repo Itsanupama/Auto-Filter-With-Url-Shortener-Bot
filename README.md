@@ -81,7 +81,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/GreyMattersbot/url-auto-delete-shortener-bot
+git clone https://github.com/imtheprofessor/Movie-Bot-Url-2
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -90,7 +90,7 @@ python3 bot.py
 </p>
 </details>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/LiKdX4?referralCode=BOT-AC)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/LiKdX4?referralCode=IM_PRO)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/botac135/Movie-Bot-Url-shortener-bot)
 
