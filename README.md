@@ -12,10 +12,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>🧐𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨🎭𝙁𝙞𝙡𝙢𝙮🍿</b>
 </h1>
 
 
@@ -40,7 +40,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up with your edits.
+Read [this](https://telegram.dog/freakersfilmy) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -125,8 +125,8 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/greymatters_bots_discussion)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/greymatter_bots)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/freakersfilmy)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/freakersmovie)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
