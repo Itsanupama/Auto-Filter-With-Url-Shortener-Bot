@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/imtheprofessor/Movie-Bot-Url-2/blob/main/assets/" alt="GreyMatter's Bot Logo">
+  <img src="https://github.com/imtheprofessor/Movie-Bot-Url-2/blob/main/assets/" alt="Freakers Bot Logo">
 </p>
 <h1 align="center">
   <b>🧐𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨🎭</b>
