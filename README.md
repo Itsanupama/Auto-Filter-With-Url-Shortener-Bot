@@ -67,8 +67,6 @@ Read [this](https://telegram.dog/freakersfilmy) before you start messing up with
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/RWs6sh8m2Uk)**</i>
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
