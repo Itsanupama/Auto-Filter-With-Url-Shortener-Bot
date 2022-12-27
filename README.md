@@ -76,7 +76,7 @@ GET API KEY
 
 [𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆 𝑻𝒐 𝑪𝒓𝒆𝒂𝒕𝒆 𝑨𝒄𝒄𝒐𝒖𝒏𝒕🍃](https://atglinks.com/ref/manafmanu)
 
-[🧐𝑾𝒂𝒕𝒄𝒉 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍](https://t.me/Im_Nayansbot?start=ZmlsZV9CQUFEQlFBRE5BY0FBbERPVUZYUDItOWMzcXhfS2hZRQ)
+[🧐𝑾𝒂𝒕𝒄𝒉 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍](https://t.me/Im_Nayansbot?start=DSTORE-NTQxXzU0Ml8tMTAwMTg1NTA5MDkxNV8vYmF0Y2g)
 
 ## Deploy
 You can deploy this bot anywhere.
