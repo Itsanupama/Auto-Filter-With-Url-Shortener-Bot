@@ -67,11 +67,13 @@ Read [this](https://telegram.dog/SixFlix) before you start messing up with your 
 
 ## How To Create A URL-SHORTENER WEB & API❓
 
-Open crome browser and type 'atglink.com' .
+Open crome browser and type 'atglinks.com' .
 Sign up to Create your own account..
 
 GET API KEY
-Dashboard - Menu - Tools - Devalaper API - Copy API
+
+➡️Dashboard - Menu - Tools - Devalaper API - Copy API
+
 [𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆 𝑻𝒐 𝑪𝒓𝒆𝒂𝒕𝒆 𝑨𝒄𝒄𝒐𝒖𝒏𝒕🍃](https://atglinks.com/ref/manafmanu)
 
 ## Deploy
