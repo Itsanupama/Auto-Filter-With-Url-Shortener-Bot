@@ -39,7 +39,7 @@
 - [x] Spelling Check Feature
 - [x] File Store
 ## Demo Bot
-Use this bot For A Demo / trail test 👉🏽[CLICK HERE](https://telegram.dog/freakersfilterbot)
+Use this bot For A Demo / trail test 👉🏽 [𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬](https://telegram.dog/freakersfilterbot)
 ## Variables
 
 Read [this](https://telegram.dog/SixFlix) before you start messing up with your edits.
