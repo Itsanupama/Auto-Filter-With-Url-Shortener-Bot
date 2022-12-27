@@ -39,7 +39,7 @@
 - [x] Spelling Check Feature
 - [x] File Store
 ## Demo Bot
-Use this bot For A Demo / trail test \n👉🏽[CLICK HERE](https://telegram.dog/freakersfilterbot)
+Use this bot For A Demo / trail test 👉🏽[CLICK HERE](https://telegram.dog/freakersfilterbot)
 ## Variables
 
 Read [this](https://telegram.dog/freakersfilmy) before you start messing up with your edits.
@@ -65,6 +65,8 @@ Read [this](https://telegram.dog/freakersfilmy) before you start messing up with
 * `START_TXT`: Enter Your Start Message
 * `ABOUT_TXT`: Enter Your About Message 
 
+## How To Create A URL-SHORTENER WEB & API❓
+[Click Here To Create](https://atglinks.com/ref/manafmanu)
 
 ## Deploy
 You can deploy this bot anywhere.
