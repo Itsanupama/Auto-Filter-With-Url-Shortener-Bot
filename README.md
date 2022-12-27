@@ -94,7 +94,7 @@ python3 bot.py
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/url-auto-delete-shortener-bot&branch=koyeb&name=urlshortautofilterbot)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/xTdLdq?referralCode=IM_PRO)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/I1xGoY?referralCode=FF_BOTS)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/FreakersBots/Auto-Filter-With-Url-Shortener-Bot)
 
@@ -127,6 +127,7 @@ channel - to get list of total connected channels
 broadcast - to broadcast a message to all Eva Maria users
 batch - to create link for multiple posts
 link - to create link for one post
+set_template - Set Imdb Temple.
 ```
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/freakersfilmy)
