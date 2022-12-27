@@ -58,8 +58,8 @@ Read [this](https://telegram.dog/SixFlix) before you start messing up with your 
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/info.py) for more
 ## EXTRA FEATURES
-* `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://)
-* `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
+* `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://) [Create Account](https://atglinks.com/ref/manafmanu)
+* `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key (click the menu button on right.➡️ Tools ➡️ Developers API / and Copy the Api and paste it)
 * `SELF_DELETE`: True if SELF_DELETE is On, False if Off
 * `SELF_DELETE_SECONDS`: Enter Seconds to be SELF_DELETE 
 * `START_TXT`: Enter Your Start Message
