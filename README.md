@@ -66,11 +66,7 @@ Read [this](https://telegram.dog/SixFlix) before you start messing up with your 
 * `ABOUT_TXT`: Enter Your About Message 
 
 ## How To Create A URL-SHORTENER WEB & API❓
-[Click Here To Create](https://atglinks.com/ref/manafmanu)
-
-<p align="center">
-  <img src="https://github.com/FreakersBots/Auto-Filter-With-Url-Shortener-Bot/blob/main/assets/VID_20221227075543.mp4" alt="Get Api Tutorial">
-</p>
+[𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆 𝑻𝒐 𝑪𝒓𝒆𝒂𝒕𝒆 𝑨𝒄𝒄𝒐𝒖𝒏𝒕🍃](https://atglinks.com/ref/manafmanu)
 
 ## Deploy
 You can deploy this bot anywhere.
