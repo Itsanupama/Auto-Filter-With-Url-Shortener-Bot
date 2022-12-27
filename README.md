@@ -67,6 +67,7 @@ Read [this](https://telegram.dog/SixFlix) before you start messing up with your 
 
 ## How To Create A URL-SHORTENER WEB & API❓
 [Click Here To Create](https://atglinks.com/ref/manafmanu)
+[Watch video](https://telegra.ph/file/af41d7da3a2b30f2b54f4.mp4)
 
 ## Deploy
 You can deploy this bot anywhere.
