@@ -15,7 +15,7 @@
   <img src="https://github.com/FreakersBots/Auto-Filter-With-Url-Shortener-Bot/blob/main/assets/freakersfilmy-logo.png" alt="Freakers Bot Logo">
 </p>
 <h1 align="center">
-   🎭 𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨
+🎭𝑭𝒓𝒆𝒂𝒌𝒆𝒓𝒔 𝑩𝒐𝒕𝒔
 </h1>
 
 
