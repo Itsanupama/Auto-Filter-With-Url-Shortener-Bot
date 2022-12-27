@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/imtheprofessor/Movie-Bot-Url-2/blob/main/assets/freakersfilmy-logo.png" alt="Freakers Bot Logo">
+  <img src="https://github.com/FreakersBots/Auto-Filter-With-Url-Shortener-Bot/blob/main/assets/freakersfilmy-logo.png" alt="Freakers Bot Logo">
 </p>
 <h1 align="center">
   <b>🧐𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨🎭</b>
@@ -74,7 +74,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/greymattersbot/url-auto-delete-shortener-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/FreakersBots/Auto-Filter-With-Url-Shortener-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -83,7 +83,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/imtheprofessor/Movie-Bot-Url-2
+git clone https://github.com/FreakersBots/Auto-Filter-With-Url-Shortener-Bot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -96,7 +96,7 @@ python3 bot.py
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/xTdLdq?referralCode=IM_PRO)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/botac135/Movie-Bot-Url-shortener-bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/FreakersBots/Auto-Filter-With-Url-Shortener-Bot)
 
 ## Commands
 ```
