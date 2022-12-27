@@ -42,7 +42,7 @@
 Use this bot For A Demo / trail test 👉🏽[CLICK HERE](https://telegram.dog/freakersfilterbot)
 ## Variables
 
-Read [this](https://telegram.dog/freakersfilmy) before you start messing up with your edits.
+Read [this](https://telegram.dog/SixFlix) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -80,8 +80,6 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/url-auto-delete-shortener-bot&branch=koyeb&name=urlshortautofilterbot)
-
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
@@ -94,16 +92,20 @@ python3 bot.py
 </p>
 </details>
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/url-auto-delete-shortener-bot&branch=koyeb&name=urlshortautofilterbot)
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/xTdLdq?referralCode=IM_PRO)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/botac135/Movie-Bot-Url-shortener-bot)
 
 ## Commands
 ```
+start - check me alive or not
 logs - to get the rescent errors
 stats - to get status of files in db.
 filter - add manual filters
 filters - view filters
+settings - for change some settings in my pm/group
 connect - connect to PM.
 disconnect - disconnect from PM
 del - delete a filter
