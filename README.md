@@ -15,7 +15,7 @@
   <img src="https://github.com/FreakersBots/Auto-Filter-With-Url-Shortener-Bot/blob/main/assets/freakersfilmy-logo.png" alt="Freakers Bot Logo">
 </p>
 <h1 align="center">
-  <b>🧐𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨🎭</b>
+   🎭 𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨
 </h1>
 
 
@@ -127,7 +127,7 @@ channel - to get list of total connected channels
 broadcast - to broadcast a message to all Eva Maria users
 batch - to create link for multiple posts
 link - to create link for one post
-set_template - Set Imdb Temple.
+set_template - Set Imdb Templates.
 ```
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/freakersfilmy)
